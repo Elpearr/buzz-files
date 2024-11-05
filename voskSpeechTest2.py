@@ -1,3 +1,9 @@
+
+""" 
+NOTICE; You need the "model" folder downloaded for this to work. Preferably both being placed in their folder together for
+conveniences sake. Thanks!
+"""
+
 import sys
 import os
 from vosk import Model, KaldiRecognizer
